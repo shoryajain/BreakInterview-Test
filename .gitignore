@@ -1,0 +1,7 @@
+node_modules
+node_modules/**
+m/node_modules/**
+**/node_modules/**
+video.mp4
+creds.json
+package.json
